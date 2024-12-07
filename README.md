@@ -1,7 +1,7 @@
 # Hello, I'm Kavinda! 👋
 
 ## About Me
-I'm a Software Engineer/Co-Founder with a passion for Software Engineering. I specialize in JavaScript and am currently following a Post Grad in Emerging Technologies. In my spare time, I enjoy making Paintings.
+I'm a Software Engineer with a passion for Software Engineering. I specialize in JavaScript and am currently following a Post Grad in Emerging Technologies. In my spare time, I enjoy making Paintings.
 
 ## My Work
 Here are some projects I'm proud of:
