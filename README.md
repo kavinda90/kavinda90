@@ -10,7 +10,7 @@ Here are some projects I'm proud of:
 - **FlixPay**: A crypto wallet Mobile application developed using React native allowing crypto to fiat conversions.
 
 ## Skills
-- **Languages**: JavaScript, C#, Java.
+- **Languages**: JavaScript, C#, Java, PHP.
 - **Frameworks/Libraries**: React, Node.js, Vue.js, NestJS, React native.
 - **Tools**: Docker, Git, Cypress, AWS, etc.
 - **Databases**: MySQL, MongoDB, etc.
